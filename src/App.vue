@@ -1,6 +1,6 @@
 <script setup>
  // code
- import lesson from './components/Lesson-4.vue'
+ import lesson from './components/practiseFromVue.vue'
 </script>
 
 <template>

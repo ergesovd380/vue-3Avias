@@ -1,6 +1,6 @@
 <script setup>
 import axios from 'axios';
-import {reactive, computed} from 'vue'
+import {reactive,} from 'vue'
 
 const review = reactive({
   name: '',
